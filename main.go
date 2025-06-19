@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("The third bait.")
 	fmt.Println("The fourth bait.")
 	fmt.Println("The fifth bait.")
+	fmt.Println("The sixth bait.")
 }
